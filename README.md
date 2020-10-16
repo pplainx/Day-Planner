@@ -5,7 +5,7 @@ Application is color coded to help distinguish whether it is old, new, or upcomi
 
 # # # Installation
 
-Click link to view it live : [here](https://pplainx.github.io/dayscheduler)
+Click link to view it live : [here](https://pplainx.github.io/Day-Planner/)
 
 # # # Usage
 
